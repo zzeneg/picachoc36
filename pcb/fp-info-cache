@@ -1,4 +1,4 @@
-21073051629701909
+21078069548764630
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88312,6 +88312,13 @@ xiao-tht
 18
 18
 picachoc
+Cutout_ChocV1
+
+
+0
+0
+0
+picachoc
 Cutout_D3_SMD
 Resitance 3 pas
 R
@@ -88319,9 +88326,44 @@ R
 0
 0
 picachoc
-Cutout_RotaryEncoder_EC11
+Cutout_EC11
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
+0
+0
+0
+picachoc
+Cutout_SW_SPDT_PCM12
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+0
+0
+picachoc
+Cutout_SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+0
+0
+picachoc
+Cutout_TRRS
+
+
+0
+0
+0
+picachoc
+Cutout_TypeC
+
+
+0
+0
+0
+picachoc
+Cutout_xiao
+
+
 0
 0
 0
@@ -88385,27 +88427,6 @@ picachoc
 logo_mirror
 
 
-0
-0
-0
-picachoc
-seeed-logo
-
-
-0
-0
-0
-picachoc
-spacer_m2_3.4
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
-0
-0
-0
-picachoc
-thread_m2_hole
-Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
 0
 0
 0
