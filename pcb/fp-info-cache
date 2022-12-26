@@ -1,4 +1,18 @@
-21078069548764630
+21089773800196119
+0xLib-encoder
+RollerEncoder_Panasonic_EVQWGD001
+
+
+0
+6
+6
+0xLib-encoder
+RotaryEncoder_Alps_EC11E-Switch_Vertical
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88333,6 +88347,13 @@ rotary encoder
 0
 0
 picachoc
+Cutout_JST_PH_S2B-PH-K_1x02_P2.00mm
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+0
+0
+picachoc
 Cutout_SW_SPDT_PCM12
 Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
 
@@ -88396,7 +88417,21 @@ connector JST PH top entry
 2
 2
 picachoc
-Kailh-PG1350-1u
+Kailh_PG1350
+Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
+kailh,choc
+0
+7
+2
+picachoc
+Kailh_PG1350_hotswap
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+picachoc
+Kailh_PG1350_soldered
 
 
 0
@@ -88427,6 +88462,20 @@ picachoc
 logo_mirror
 
 
+0
+0
+0
+picachoc
+rp2040-zero-smd
+
+
+0
+23
+23
+picachoc
+spacer_m2_3.4
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
 0
 0
 0

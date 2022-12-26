@@ -1,4 +1,4 @@
-(footprint "Kailh-PG1350-1u" (version 20211014) (generator pcbnew)
+(footprint "Kailh_PG1350_soldered" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5B6B2E11)
   (attr through_hole)
