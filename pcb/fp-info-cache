@@ -1,4 +1,4 @@
-21078069548764630
+21079741992877219
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88329,6 +88329,13 @@ picachoc
 Cutout_EC11
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
+0
+0
+0
+picachoc
+Cutout_JST_PH_S2B-PH-K_1x02_P2.00mm
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
 0
 0
 0
