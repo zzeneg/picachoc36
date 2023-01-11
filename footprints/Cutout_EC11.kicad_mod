@@ -12,7 +12,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b70f5c68-44b6-4c18-89e2-5fa4d92f5907)
   )
-  (fp_rect (start -8.5 -7) (end 8 7) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 70ae61a8-2b7c-464e-bc6e-14b5f84171d1))
+  (fp_rect (start -7.75 -6.4) (end 7.75 6.4) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 70ae61a8-2b7c-464e-bc6e-14b5f84171d1))
   (model "../footprints/Rotary Encoder.step" hide
     (offset (xyz -6 6 0))
     (scale (xyz 1 1 1))
