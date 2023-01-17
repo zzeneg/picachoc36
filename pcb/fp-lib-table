@@ -5,4 +5,5 @@
   (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/../lib/keyswitches.pretty")(options "")(descr ""))
   (lib (name "keebio")(type "KiCad")(uri "${KIPRJMOD}/../lib/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "picachoc")(type "KiCad")(uri "${KIPRJMOD}/../footprints")(options "")(descr ""))
+  (lib (name "zzkeeb")(type "KiCad")(uri "${KIPRJMOD}/../lib/zzkeeb/kicad/zzkeeb.pretty")(options "")(descr ""))
 )
