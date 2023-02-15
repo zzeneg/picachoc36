@@ -48,8 +48,8 @@ battery compartment
 
 ## Firmware
 
-- QMK - [my fork](https://github.com/zzeneg/qmk_firmware/tree/feature/picachoc36/keyboards/picachoc36), [compiled file](firmware/qmk/picachoc36_rev1_default.uf2).
-- Vial - [my fork](https://github.com/zzeneg/vial-qmk/tree/feature/picachoc36/keyboards/picachoc36), [compiled file](firmware/vial/picachoc36_rev1_vial-zzeneg.uf2) and [vial config](firmware/vial/zzeneg.vil).
+- QMK - [my fork](https://github.com/zzeneg/qmk_firmware/tree/feature/picachoc36/keyboards/picachoc36), [compiled default keymap](firmware/qmk/picachoc36_default.uf2), [compiled my keymap](firmware/qmk/picachoc36_zzeneg.uf2).
+- Vial - [my fork](https://github.com/zzeneg/vial-qmk/tree/feature/picachoc36/keyboards/picachoc36), [compiled my keymap](firmware/vial/picachoc36_rev1_vial-zzeneg.uf2) and [my vial config](firmware/vial/zzeneg.vil).
 - _[TODO]_ ZMK
 
 ## Gerber files
