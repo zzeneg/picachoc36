@@ -58,7 +58,10 @@ battery compartment
 
 ## Case files (STL - 3d printed)
 
-- Wired - [Left](stl/Plate-wired-left.stl), [left without encoder hole](stl/Plate-wired-left-noenc.stl), [right](stl/Plate-wired-right.stl), [right without encoder hole](stl/Plate-wired-right-noenc.stl)
+Updated wired cases render:
+![Wired](./images/case-new-render.png)
+
+- Wired - [Left](stl/Plate_case%20v2_left-wired.stl), [left without encoder hole](stl/Plate_case%20v2_left-wired-no-enc.stl), [right](stl/Plate_case%20v2_right-wired.stl), [right without encoder hole](stl/Plate_case%20v2_right-wired-no-enc.stl)
 - Wireless - with battery compartment and encoder holes - [left](stl/Plate-wireless-left.stl), [right](stl/Plate-wireless-right.stl)
 - _[Experimental]_ [Knob](stl/Knob.stl) for low profile rotary encoder
 
