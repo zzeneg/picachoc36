@@ -4,7 +4,7 @@ Low-profile split keyboard with 36 keys using XIAO controllers.
 
 _Pica pica - european (common) magpie_
 
-<img src='images\main.jpg' width="600">
+![main](./images/main.jpg)
 
 ## Features
 
@@ -34,17 +34,17 @@ _Pica pica - european (common) magpie_
 
 wired version with 3d printed case
 
-<img src='images\top.jpg' width="600">
-<img src='images\side.jpg' width="600">
-<img src='images\bottom.jpg' width="600">
+![top](./images/top.jpg)
+![side](./images/side.jpg)
+![bottom](./images/bottom.jpg)
 
 build process
 
-<img src='images\build.jpg' width="600">
+![build](./images/build.jpg)
 
 battery compartment
 
-<img src='images\battery.jpg' width="600">
+![battery](./images/battery.jpg)
 
 ## Firmware
 
