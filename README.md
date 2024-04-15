@@ -48,22 +48,22 @@ battery compartment
 
 ## Firmware
 
-- QMK - [my fork](https://github.com/zzeneg/qmk_firmware/tree/feature/picachoc36/keyboards/picachoc36), [compiled default keymap](firmware/qmk/picachoc36_default.uf2), [compiled my keymap](firmware/qmk/picachoc36_zzeneg.uf2).
-- Vial - [my fork](https://github.com/zzeneg/vial-qmk/tree/feature/picachoc36/keyboards/picachoc36), [compiled my keymap](firmware/vial/picachoc36_rev1_vial-zzeneg.uf2) and [my vial config](firmware/vial/zzeneg.vil).
+- QMK - [my fork](https://github.com/zzeneg/qmk_firmware/tree/feature/zzeneg/keyboards/picachoc36), [compiled file](https://github.com/zzeneg/qmk_firmware/releases/download/zzeneg/picachoc36_default.uf2)
+- Vial - [my fork](https://github.com/zzeneg/vial-qmk/tree/feature/zzeneg/keyboards/picachoc36), [compiled file](https://github.com/zzeneg/vial-qmk/releases/download/zzeneg/picachoc36_vial.uf2)
 - _[TODO]_ ZMK
 
 ## Gerber files
 
-- [PCB](gerbers/pcb.zip)
+- [PCB](./pcb/production/pcb.zip)
 
 ## Case files (STL - 3d printed)
 
 Updated wired cases render:
 ![Wired](./images/case-new-render.png)
 
-- Wired - [Left](stl/Plate_case%20v2_left-wired.stl), [left without encoder hole](stl/Plate_case%20v2_left-wired-no-enc.stl), [right](stl/Plate_case%20v2_right-wired.stl), [right without encoder hole](stl/Plate_case%20v2_right-wired-no-enc.stl)
-- Wireless - with battery compartment and encoder holes - [left](stl/Plate-wireless-left.stl), [right](stl/Plate-wireless-right.stl)
-- _[Experimental]_ [Knob](stl/Knob.stl) for low profile rotary encoder
+- Wired - [Left](./stl/Plate_case%20v2_left-wired.stl), [left without encoder hole](./stl/Plate_case%20v2_left-wired-no-enc.stl), [right](./stl/Plate_case%20v2_right-wired.stl), [right without encoder hole](./stl/Plate_case%20v2_right-wired-no-enc.stl)
+- Wireless - with battery compartment and encoder holes - [left](./stl/Plate-wireless-left.stl), [right](./stl/Plate-wireless-right.stl)
+- _[Experimental]_ [Knob](./stl/Knob.stl) for low profile rotary encoder
 
 ## Bill of materials
 
@@ -94,3 +94,7 @@ Similar to all other keyboards. Main points:
 
 - flash your MCUs with a firmware that supports bootmagic/QK_BOOT/&reset functions
 - triple check all keys with tweezers
+
+## Development
+
+For proper KiCad setup install my [zzkeeb](https://github.com/zzeneg/zzkeeb/blob/main/README.md#installation) library.
